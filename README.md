@@ -73,7 +73,7 @@ Step 6  렌더링 ────── Pillow ────→ 10개 PNG + 통합 �
 
 - **Python 3.10+**
 - **Claude Code CLI** ([설치 가이드](https://docs.anthropic.com/en/docs/claude-code))
-- **Gemini API Key** (무료) — [Google AI Studio](https://aistudio.google.com/)
+- **Gemini API Key** (무료) — Google AI Studio에서 발급
 
 ### 2. 프로젝트 클론
 
